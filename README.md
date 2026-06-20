@@ -1,2 +1,1 @@
-Hands-on Machine Learning foundations, data structures, and core data science experiments from the college bootcamp. Includes data manipulation with NumPy & Pandas and advanced data visualization…
-Hands-on ML learning notebooks, assignments, and experiments from the college bootcamp.
+Hands-on Machine Learning foundations, data structures, and core data science experiments from the college bootcamp. Includes data manipulation with NumPy & Pandas and advanced data visualization…, assignments, and experiments from the college bootcamp.
